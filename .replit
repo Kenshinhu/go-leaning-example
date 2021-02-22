@@ -1,2 +1,2 @@
 language = "go"
-run = "go run array.go"
+run = "go run slice.go"
