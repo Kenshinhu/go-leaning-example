@@ -9,6 +9,8 @@ func consts(){
   fmt.Printf("number1: %s file: %s \n", number1, file)
 }
 
+
+
 // enums by iota
 func enums(){
   const (
