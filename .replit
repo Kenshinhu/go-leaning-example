@@ -1,2 +1,2 @@
 language = "go"
-run = "go run conditions.go"
+run = "go run loop.go"
