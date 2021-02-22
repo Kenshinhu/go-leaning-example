@@ -11,7 +11,7 @@ func variable_type_1() {
   var number int
   var str string
   fmt.Printf("number:%d string:%s", number, str)
-}
+} 
 
 // initial value 
 func variableInitialValue(){
@@ -38,5 +38,5 @@ func main() {
   variableInitalValueByTypeDeduction()
   variableInitialShorter()
 
-  fmt.Printf("Global =  number1:%d string1:%s bool1:%b", number1, string1, bool1)
+  fmt.Printf("Global = number1:%d string1:%s bool1:%b", number1, string1, bool1)
 }

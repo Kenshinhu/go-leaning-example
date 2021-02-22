@@ -1,2 +1,2 @@
 language = "go"
-run = "go run variable_definition.go"
+run = "go run constants_and_enumerations.go"
