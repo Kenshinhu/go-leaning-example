@@ -1,2 +1,2 @@
 language = "go"
-run = "go run pointer.go"
+run = "go run array.go"
