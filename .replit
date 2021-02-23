@@ -1,2 +1,2 @@
 language = "go"
-run = "go run slice.go"
+run = "go run example_non_repeating.go"
