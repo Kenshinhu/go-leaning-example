@@ -9,11 +9,15 @@ type TreeNode struct {
 
 func (node *TreeNode) setValue(value int){
   node.Value = value
-  node.print()
+  node.Print()
 }
 
 // definition the function 
-func (node TreeNode) print() {
+func (node *TreeNode) Print() {
+  if node == nil {
+    return
+  }
+
   fmt.Println(node.Value)
 }
 
@@ -23,7 +27,7 @@ func (node *TreeNode) Travel(){
   }
 
   node.Left.Travel()
-  node.print()
+  node.Print()
   node.Right.Travel()
 }
 
