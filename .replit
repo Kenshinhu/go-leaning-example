@@ -1,2 +1,2 @@
 language = "go"
-run = "go run example_non_repeating.go"
+run = "go run tree/node.go"
