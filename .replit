@@ -1,2 +1,2 @@
 language = "go"
-run = "go run tree/node.go"
+run = "go run entry.go"
