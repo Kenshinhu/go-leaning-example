@@ -1,2 +1,2 @@
 language = "go"
-run = "go run goroutine/mutex_example.go"
+run = "go run goroutine/map_example.go"
