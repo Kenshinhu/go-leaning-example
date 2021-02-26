@@ -1,2 +1,2 @@
 language = "go"
-run = "go run query_example.go"
+run = "go run goroutine/goroutine.go"
